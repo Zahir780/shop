@@ -1,0 +1,10 @@
+G:\shop\shop\shop\bin\Debug\shop.exe.config
+G:\shop\shop\shop\bin\Debug\shop.exe
+G:\shop\shop\shop\bin\Debug\shop.pdb
+G:\shop\shop\shop\obj\Debug\shop.csproj.AssemblyReference.cache
+G:\shop\shop\shop\obj\Debug\shop.Form1.resources
+G:\shop\shop\shop\obj\Debug\shop.Properties.Resources.resources
+G:\shop\shop\shop\obj\Debug\shop.csproj.GenerateResource.cache
+G:\shop\shop\shop\obj\Debug\shop.csproj.CoreCompileInputs.cache
+G:\shop\shop\shop\obj\Debug\shop.exe
+G:\shop\shop\shop\obj\Debug\shop.pdb
